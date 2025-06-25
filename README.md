@@ -7,7 +7,6 @@ Experience a fully immersive 3D generative art animation with randomized shapes,
 
 ![Screenshot](https://github.com/ChrisPirillo/kineticcosmos/blob/main/assets/screenshot.png?raw=true)
 
-
 ![Screenshot](https://raw.githubusercontent.com/ChrisPirillo/kineticcosmos/main/assets/screenshot.png)
 
 * Try it now: [https://pirillo.com/arcade/kineticcosmos.html](https://pirillo.com/arcade/kineticcosmos.html)
